@@ -656,19 +656,6 @@
          "tilecount":128,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":3,
-         "firstgid":4068,
-         "image":"hackatosh.jpg",
-         "imageheight":100,
-         "imagewidth":100,
-         "margin":0,
-         "name":"hackatosh",
-         "spacing":0,
-         "tilecount":9,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
