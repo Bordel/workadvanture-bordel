@@ -55,7 +55,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"\/tsunami.mp3"
+                 "value":"\/computer.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
