@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
-                 "value":"\/tsunami.mp3"
+                 "value":"tsunami.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
