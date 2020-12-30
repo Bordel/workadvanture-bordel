@@ -71,9 +71,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiroom",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bordel_herewetalk"
+                 "value":"shared oio-bordel"
                 }],
          "type":"tilelayer",
          "visible":true,
