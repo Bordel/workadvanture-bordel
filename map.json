@@ -73,7 +73,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared oio-bordel"
+                 "value":"oio-bordel"
                 }],
          "type":"tilelayer",
          "visible":true,
