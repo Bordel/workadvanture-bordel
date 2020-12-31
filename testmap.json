@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.romantyc.cz"
+                 "value":"https:\/\/www.paralelnipolis.cz"
                 }],
          "type":"tilelayer",
          "visible":true,
