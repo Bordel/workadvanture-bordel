@@ -998,19 +998,6 @@
          "tilecount":1,
          "tileheight":16,
          "tilewidth":85
-        }, 
-        {
-         "columns":1,
-         "firstgid":9181,
-         "image":"bordelgreen.png",
-         "imageheight":16,
-         "imagewidth":86,
-         "margin":0,
-         "name":"bordelgreen",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":16,
-         "tilewidth":86
         }],
  "tilewidth":32,
  "type":"map",
