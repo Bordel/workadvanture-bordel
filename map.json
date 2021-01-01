@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"bordelodufi2imjfickpgwlwpxlkbdmrqz7p663vz6ept3djipid6uad.onion.ws\/btcpay\/"
+                 "value":"https:\/\/pay.paralelnipolis.cz\/apps\/3JnJ8ekEf6n1Go97LCfubSrLEAnA\/pos"
                 }],
          "type":"tilelayer",
          "visible":true,
