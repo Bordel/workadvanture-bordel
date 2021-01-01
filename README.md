@@ -1,79 +1,41 @@
-# WorkAdventure Map Starter Kit
+# Virtual 2D Bordel in WorkAdventure 
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+Inspired by [rC3](https://howto.rc3.world/), we decided to create a virtual representation of Bordel Hackerspace in [WorkAdventure](https://workadventu.re).
 
-## Tools you will need
+Virtual Bordel can serve for meeting members without being physically in Prague, hosting online events and parties. It cointains few hidden easter eggs and memes, find them all and have fun in our online chillzone! 
 
-In order to build your own map for WorkAdventure, you need:
+You can enter [WorkAdventure Bordel space here](https://play.workadventu.re/_/global/bordel.github.io/workadvanture-bordel/map.json).
+Hosting own WorkAdventure instance is opened to discussion. 
+
+## Contribute
+
+Don't hesitate to help us with improving virtual Bordel! Cleaning, adding new details, creating tiles or designing new parts of Paralelní Polis are strongly welcomed. In order to edit the map for WorkAdventure, you need:
 
 - the [Tiled editor](https://www.mapeditor.org/) software
-- "tiles" (i.e. images) to create your map (this starter kit provides a good default tileset for offices)
-- a web-server to serve your map (this starter kit proposes to use Github static pages as a web-server which is both free and performant)
+- `git` to fetch current version of the map and push your changes
 
 ## Getting started
 
-On the [Github repository page](https://github.com/thecodingmachine/workadventure-map-starter-kit),
-click the **"Use this template"** button. You will be prompted to enter a repository name for your map.
-
-![](docs/create_repo.png)
-
-Be sure to keep the repository "Public".
-
-In your newly created repository, click on the **Settings tab** and scroll down to the **GitHub Pages** section.
-Then select the **gh-pages** branch. 
-
-![](docs/github_pages.png)
-
-Wait a few minutes a Github will deploy a new website with the content of the repository.
-The address of the website is visible in the "GitHub Pages" section.
-
-![](docs/website_address.png)
-
-Click on the link. You should be redirected directly to WorkAdventure, on your map!
-
-## Customizing your map
-
-Your map is now up and online. You need to customize it.
-
 ### Cloning the map
 
-Start by cloning the map. If you are used to Git and GitHub, simply clone the map
-to your computer using your preferred tool and [jump to the next chapter](#loading-the-map-in-tiled).
-
-If you are new to Git, cloning the map means downloading the map to your computer.
-To do this, you will need Git, or a Git compatible tool. Our advice is to use
-[GitHub Desktop](https://desktop.github.com/).
-
-TODO: test and continue
+Start by cloning the map. Simply clone the map to your computer using your preferred tool. 
+For example `git clone https://github.com/Bordel/workadvanture-bordel.git`
 
 ### Loading the map in Tiled
 
-The sample map is in the file `map.json`.
+The map is currently in the file `map.json`.
 You can load this file in [Tiled](https://www.mapeditor.org/).
 
-Now, it's up to you to edit the map and write your own map.
+Now, it's up to you to edit the map.
 
-Some resources regarding Tiled:
+Some usefull resources:
 
 - [Tiled documentation](https://doc.mapeditor.org/en/stable/manual/introduction/)
 - [Tiled video tutorials](https://www.gamefromscratch.com/post/2015/10/14/Tiled-Map-Editor-Tutorial-Series.aspx)
+- [WorkAdventure map creation guide](https://workadventu.re/create-map.html)
+- [rC3 intro guide](https://howto.rc3.world/maps.en.html)
 
-### About WorkAdventu.re maps
-
-In order to design a map that will be readable by WorkAdventure, you will have to respect some constraints.
-
-In particular, you will need to:
-
-- set a start position for the players
-- configure the "floor layer" (so that WorkAdventure can correctly display characters above the floor, but under the ceiling)
-- eventually, you can place exits that link to other maps
-
-All this is described in the [WorkAdventure documentation](https://github.com/thecodingmachine/workadventure/#designing-a-map).
-Please be sure to check it out. 
 
 ### Pushing the map
 
-When your changes are ready, you need to "commit" and "push" the changes back to GitHub.
-Just wait a few minutes, and your map will be propagated automatically to the GitHub pages web-server.
-
-TODO: describe how to push
+When your changes are ready, create commit and create pull request to this repo. After reviewing and accepting the request, it will be propagated to the GitHub pages web-server.
