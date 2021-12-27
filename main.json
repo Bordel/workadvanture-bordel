@@ -67,6 +67,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/lightning-roulette-a9891.web.app\/\n"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press space to open a Lightning roulette"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,6 +113,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/pay.paralelnipolis.cz\/LocalStorage\/9c5ed494-8f03-4a69-9521-5495b3e6a4f4-bordel.mp4"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Donate sats to Bordel. Press space "
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -246,7 +266,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/discord.gg\/RsweKCxYBR"
+                 "value":"https:\/\/pwn.finance\/"
                 }],
          "type":"tilelayer",
          "visible":true,
