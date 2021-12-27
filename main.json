@@ -507,6 +507,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -520,6 +526,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-colors-128",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -533,6 +545,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -616,6 +634,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -658,6 +682,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -984,6 +1014,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1026,6 +1062,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -1126,6 +1168,12 @@
          "imagewidth":127,
          "margin":0,
          "name":"moon",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1196,6 +1244,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"mate",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1466,6 +1520,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"MK3s-home-new",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
