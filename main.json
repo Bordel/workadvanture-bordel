@@ -1807,6 +1807,12 @@
          "imagewidth":129,
          "margin":0,
          "name":"cib",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
