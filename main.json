@@ -76,7 +76,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press space to open a Lightning roulette"
+                 "value":"Press space to open a Lightning roulette (WIP)"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -95,6 +95,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/pay.paralelnipolis.cz\/apps\/3JnJ8ekEf6n1Go97LCfubSrLEAnA\/pos"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Donate sats to Bordel. Press space "
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -122,7 +132,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Donate sats to Bordel. Press space "
+                 "value":"Enter the chaos"
                 }],
          "type":"tilelayer",
          "visible":true,
